@@ -1,2 +1,2 @@
-# GeoAI
-Civil Engineering with Machine Learning
+## GeoAI
+This project focuses on analyzing building footprints in the Durgapur locality using geospatial data from QGIS and OpenStreetMap. The data was cleaned and preprocessed to train a Convolutional Neural Network (CNN) that classifies buildings as symmetrical or non-symmetrical based on geometric properties. By automating symmetry classification, the project provides valuable insights for urban planning and architectural analysis. Developed using Python (TensorFlow, Keras) and GIS tools, the solution demonstrates scalable applications in geospatial data analysis and visualization.
